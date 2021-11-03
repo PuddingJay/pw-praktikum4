@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(to right, #FFEFD5, #E7E1CA);
+}
+
+h1{
+    Color:#342C7A; 
+    text-align:center; 
+    margin-top : 200px;
+}
+
+*{
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #342C7A;
+}
+
+td{
+    border-radius:4px;
+}
+
+td:hover{
+    background-color: Ivory;
+    transition: .3s;
+}
+
+th{
+    background-color: #12A0CA;
+    color: white;
+    border-radius:4px; 
+}
+
+th:hover{
+    background-color: #342C7A;
+    transition: .3s;
+}
+
+.Table{
+    background-color: LightGray;
+    border-radius:8px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top : 10px;
+}
